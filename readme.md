@@ -7,7 +7,7 @@
 
 ชื่อ-สกุล : กฤษฏิ์ศรัล กันติ๊บ
 
-GitHub Page URL :
+GitHub Page URL : https://cpe207-students-167.github.io/lab07-BeCK8Pi/
 
 ---
 
